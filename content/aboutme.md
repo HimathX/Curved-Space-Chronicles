@@ -8,7 +8,7 @@ reading_time: false
 ---
 ## Hello, I'm Sasandu Garusinghe 👋
 
-![Profile Photo](profile.jpg){: .profile-image style="width: 250px; border-radius: 50%; border: 3px solid #2a7ae2; display: block; margin: 0 auto;"}
+[Profile Photo](profile.jpg){: .profile-image style="width: 250px; border-radius: 50%; border: 3px solid #2a7ae2; display: block; margin: 0 auto;"}
 
 
 ### Academic Background
