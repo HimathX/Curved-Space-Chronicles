@@ -18,7 +18,6 @@ authors:
 
 tags:
   - Particles
-
 ---
 
 ## Linear Momentum of a System
@@ -178,9 +177,10 @@ $$
 $$
 {{< /math >}}
 
-## Download Full Notes
+## Download Complete Notes
+
 {{% staticref "Physics_Notes.pdf" "newtab" %}}
-:fontawesome-solid-file-pdf: Download the complete system of particles notes (PDF)
+:fontawesome-solid-file-pdf: Download Full PDF Notes
 {{% /staticref %}}
 
-*File includes all equations and derivations in printable format.*
+*The PDF contains all equations, derivations, and additional explanatory diagrams in a printer-friendly format.*
