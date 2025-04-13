@@ -178,3 +178,9 @@ $$
 $$
 {{< /math >}}
 
+## Download Full Notes
+{{% staticref "Physics_Notes.pdf" "newtab" %}}
+:fontawesome-solid-file-pdf: Download the complete system of particles notes (PDF)
+{{% /staticref %}}
+
+*File includes all equations and derivations in printable format.*
