@@ -4,7 +4,7 @@ date: 2023-10-24
 hide_date: true
 reading_time: false
 image:
-  path: profile.jpg  # Image filename in your static/media folder
+  path: /workspaces/Curved-Space-Chronicles/content/profile.jpg  
   alt: Sasandu Garusinghe
   caption: "Sasandu Garusinghe - Electronics & Telecom Engineering Student"
   placement: 1  # Shows image at top (1), bottom (2), or left (3)
