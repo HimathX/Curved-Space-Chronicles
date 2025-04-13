@@ -44,5 +44,5 @@ highlight_name: true
 website: ""
 ---
 
-Sasandu Graushinghe is a student of Electronics and Telecommunication Engineering with a deep enthusiasm for physics. His interests span the intersection of signal processing, quantum mechanics, and emerging communication technologies. Driven by curiosity, he actively explores how physical principles can shape next-generation electronic systems and intelligent communication networks. Passionate about bridging theoretical physics with practical engineering, Sasandu aims to innovate at the frontier where technology meets fundamental science.
+Sasandu Graushinghe is diving deep into Electronics and Telecommunication Engineering, but don’t be fooled—he’s got physics posters on his wall and quantum dreams in his head. Obsessed with signals, gadgets, and anything that hums, beeps, or breaks the speed of light (theoretically, for now), he’s the guy who’ll argue that Schrödinger’s cat could’ve built a better antenna. Sasandu blends engineering smarts with a physicist’s curiosity—and just a hint of mad scientist energy.
 
