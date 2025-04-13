@@ -8,7 +8,6 @@ links:
     icon_pack: fas
     name: Full Notes (PDF)
     url: 'Physics_Notes.pdf' # Same folder as index.md
----
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
