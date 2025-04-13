@@ -4,7 +4,7 @@ date: 2023-10-24
 hide_date: true
 reading_time: false
 ---
-
+---
 # Hello, I'm Sasandu Garusinghe 👋
 
 
@@ -45,4 +45,3 @@ I'm always open to discussing:
 ---
 
 *"Engineering is the art of applying science to solve real-world problems."*  
-*This page was last updated on {{< lastmod >}}*
