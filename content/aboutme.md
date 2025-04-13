@@ -7,7 +7,6 @@ reading_time: false
 
 # Hello, I'm Sasandu Garusinghe 👋
 
-![Sasandu Garusinghe](profile.jpg "Electronics and Telecommunication Engineering Student | University of Moratuwa")aboutm
 
 ## Academic Background
 🎓 **Current Studies**: Pursuing a B.Sc. in Electronics and Telecommunication Engineering at [University of Moratuwa](https://uom.lk/), Sri Lanka's premier engineering university.
