@@ -177,10 +177,6 @@ $$
 $$
 {{< /math >}}
 
-## Download Complete Notes
 
-{{% staticref "Physics_Notes.pdf" "newtab" %}}
-:fontawesome-solid-file-pdf: Download Full PDF Notes
-{{% /staticref %}}
-
-*The PDF contains all equations, derivations, and additional explanatory diagrams in a printer-friendly format.*
+## Download Full Notes
+[Download the complete PDF notes here](Physics_Notes.pdf)
