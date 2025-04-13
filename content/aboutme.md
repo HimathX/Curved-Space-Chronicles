@@ -3,45 +3,56 @@ title: About Me
 date: 2023-10-24
 hide_date: true
 reading_time: false
-
 ---
 ---
-## Hello, I'm Sasandu Garusinghe 👋
+<h3>Hello, I'm Sasandu Garusinghe 👋</h3>
 
-### Academic Background
-🎓 **Current Studies**: Pursuing a B.Sc. in Electronics and Telecommunication Engineering at [University of Moratuwa](https://uom.lk/), Sri Lanka's premier engineering university.
+<h4>Who I Am</h4>
+<small>📡 Electronics and Telecommunication Engineering undergraduate at the <a href="https://uom.lk/">University of Moratuwa</a> with a passion for distributed systems and signal processing. My work bridges theoretical physics with practical engineering solutions.</small>
 
-🏫 **Education**:
-- G.C.E. Advanced Level (Physical Science Stream) - Bandaranayake College, Gampaha
-- G.C.E. Ordinary Level - Bandaranayake College, Gampaha
+<h4>Academic Journey</h4>
+<small>🎓 <strong>Current Studies</strong>:<br>
+- B.Sc. in Electronics and Telecommunication Engineering<br>
+- University of Moratuwa (Sri Lanka's top engineering university)</small>
 
-### Research Interests
-🔬 My academic passions lie at the intersection of:
-- Telecommunications systems
-- Applied mathematics for engineering
-- Signal processing algorithms
-- Emerging wireless technologies
+<small>🏫 <strong>Previous Education</strong>:<br>
+- G.C.E. Advanced Level (Physical Science Stream) - Bandaranayake College, Gampaha<br>
+- G.C.E. Ordinary Level - Bandaranayake College, Gampaha</small>
 
-### Technical Skills
-💻 **Software**: Python , Java , AutoCAD  
-📡 **Hardware**: RF circuit design, Embedded systems, IoT devices  
-📚 **Theoretical**: Electromagnetic theory, Digital signal processing, Network analysis
+<h4>Research Focus</h4>
+<small>My interests span:<br>
+- Distributed robotics systems<br>
+- Mobile computing architectures<br>
+- Programmable matter applications<br>
+- Signal processing algorithms<br>
+- Emerging wireless technologies</small>
 
+<h4>Technical Expertise</h4>
+<small>💻 <strong>Software</strong>:<br>
+- Python, Java, AutoCAD</small>
 
-### Beyond Academics
-When I'm not studying telecom systems, you can find me:
-- 📚 Reading popular science books (especially quantum physics)
-- 🌱 Learning about sustainable technology solutions
+<small>📡 <strong>Hardware</strong>:<br>
+- RF circuit design<br>
+- Embedded systems development<br>
+- IoT device prototyping</small>
 
-### Get In Touch
-I'm always open to discussing:
-- Research collaborations
-- Interesting engineering projects
-- Academic opportunities
+<small>📚 <strong>Theoretical</strong>:<br>
+- Electromagnetic theory<br>
+- Digital signal processing<br>
+- Network analysis</small>
 
-📧 **Email**: [SasanduG@gmail.com](SasanduG@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/SasanduG](https://www.linkedin.com/in/sasandu-garusinghe-9b9872302/?originalSubdomain=lk)  
+<h4>Personal Philosophy</h4>
+<small>I blend engineering precision with a physicist's curiosity—always exploring how theoretical concepts can solve real-world telecommunication challenges.</small>
+
+<h4>Connect With Me</h4>
+<small>I welcome discussions about:<br>
+- Research collaborations<br>
+- Innovative engineering projects<br>
+- Academic opportunities</small>
+
+<small>📧 <strong>Email</strong>: <a href="mailto:SasanduGarusinghe@gmail.com">SasanduGarusinghe@gmail.com</a><br>
+🔗 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/sasandu-garusinghe-9b9872302/?originalSubdomain=lk">linkedin.com/in/sasandu-garusinghe</a></small>
 
 ---
 
-*"Engineering is the art of applying science to solve real-world problems."*  
+<small><em>"Engineering is the art of applying science to solve real-world problems—one signal at a time."</em></small>
