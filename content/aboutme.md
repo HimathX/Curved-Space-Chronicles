@@ -3,11 +3,16 @@ title: About Me
 date: 2023-10-24
 hide_date: true
 reading_time: false
+image:
+  path: profile.jpg  # Image filename in your static/media folder
+  alt: Sasandu Garusinghe
+  caption: "Sasandu Garusinghe - Electronics & Telecom Engineering Student"
+  placement: 1  # Shows image at top (1), bottom (2), or left (3)
+  focal_point: "Center"  # Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+---
 ---
 ---
 ## Hello, I'm Sasandu Garusinghe 👋
-
-![Sasandu Garusinghe](profile.jpg "Electronics and Telecommunication Engineering Student | University of Moratuwa")
 
 ### Academic Background
 🎓 **Current Studies**: Pursuing a B.Sc. in Electronics and Telecommunication Engineering at [University of Moratuwa](https://uom.lk/), Sri Lanka's premier engineering university.
