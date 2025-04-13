@@ -3,16 +3,22 @@ title: 🌍 System of Particles
 summary: Linear momentum of a particle system stays constant if no external force acts. In the center of mass frame, total momentum is zero. Angular momentum changes due to external torque and can also be considered about the center of mass.
 date: 2025-04-13
 math: true
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+links:
+  - icon: file-pdf
+    icon_pack: fas
+    name: Full Notes (PDF)
+    url: 'Physics_Notes.pdf' # Same folder as index.md
+
 image:
   caption: 'Image credit: [**MS Designer**](https://designer.microsoft.com/)'
 
 authors:
   - admin
   - HimathX
+
 tags:
   - Particles
+
 ---
 
 ## Linear Momentum of a System
@@ -172,9 +178,3 @@ $$
 $$
 {{< /math >}}
 
-## Download Full Notes
-{{% staticref "Physics_Notes.pdf" "newtab" %}}
-:fontawesome-solid-file-pdf: Download the complete system of particles notes (PDF)
-{{% /staticref %}}
-
-*File includes all equations and derivations in printable format.*
